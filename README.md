@@ -1,4 +1,4 @@
-#Smile-Detector
+# Smile-Detector
 
 Facial expressions indicate emotional sentiments and underpin sensations such as pleasure, happiness, sorrow, boredom, anger, contentment, and discontent. Perhaps the most common expression of human emotion, is the smile. There has been an emerging need for smile monitoring in real world development and advancement to assist humans in a variety of potential applications, such as photo selection, user analysis, artificial intelligence and applications in the healthcare industry including patient feeling conditions. Researchers and professionals involved in the development of this new technology have already expressed a strong interest in an efficient smile detection software that can provide accurate results in real-time.
 
