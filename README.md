@@ -7,4 +7,4 @@ This application aims to train a machine to have the same social cue awareness a
 <img width="219" alt="nsmile1" src="https://user-images.githubusercontent.com/47064881/188987005-5cd045a7-409c-43fa-b44b-612a3e7408dd.png" alt="alt text"> <img width="219" alt="smile" src="https://user-images.githubusercontent.com/47064881/188987093-249dbd86-ba72-494a-9960-11c522758d31.png" alt="alt text">
   </p>
 
-
+Overview of the application: https://vimeo.com/727555396
